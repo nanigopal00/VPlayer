@@ -2,12 +2,13 @@
 
 vplayer is a lightweight video player application designed to play a variety of video formats smoothly and efficiently. With a clean and user-friendly interface, vplayer allows you to enjoy videos with ease.
 
-
+# apk link
+https://fckzohisufrdwfqljhbb.supabase.co/storage/v1/object/public/Nanigopaldey/app-debug.apk?t=2025-01-16T13%3A27%3A04.193Z
 
 
 ## Features
 
-- Supports multiple video formats (e.g., MP4, AVI, MKV, etc.)
+- Supports multiple video formats ( MP4, AVI, MKV,,2k,4K)
 - Easy-to-use and intuitive interface
 - Adjustable playback speed
 - Volume and brightness control
@@ -33,7 +34,7 @@ To use vplayer, follow these steps:
    - Select a video file you want to play.
 
 4. **Playback**:
-   - The video will automatically adjust the settings (e.g., resolution, aspect ratio) based on the format.
+   - The video will automatically adjust the settings based on the format.
    - You can control playback using the on-screen buttons:
      - **Play/Pause**: Toggle video playback.
      - **Volume**: Adjust the audio.
